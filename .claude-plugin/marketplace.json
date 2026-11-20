@@ -1,0 +1,15 @@
+{
+  "name": "javi",
+  "description": "Javi Core for Claude: the company's shared memory, from the Javi team.",
+  "owner": {
+    "name": "Javi",
+    "email": "contato@javicore.com"
+  },
+  "plugins": [
+    {
+      "name": "javi-core",
+      "source": "./",
+      "description": "Javi Core, a memória da empresa: registros, tarefas e quem é quem, no Claude."
+    }
+  ]
+}

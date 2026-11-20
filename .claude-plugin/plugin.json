@@ -1,0 +1,11 @@
+{
+  "name": "javi-core",
+  "displayName": "Javi Core",
+  "version": "0.7.2",
+  "description": "Javi Core, a memória da empresa: consulte e registre reuniões, ligações, decisões, e-mails, tarefas e as pessoas, clientes, fornecedores e projetos envolvidos.",
+  "author": {
+    "name": "Javi"
+  },
+  "homepage": "https://javicore.com/ajuda",
+  "privacyPolicyUrl": "https://javicore.com/privacidade"
+}
